@@ -1,6 +1,6 @@
 # Visualization for Data Science
 
-These aare three mini projects I completed as part of CS6630 Visualization for Data Science course Fall 2019 at the University of Utah. The source code repositories have to be kept private but you can view the visulization designs using the links below:
+These are three mini projects I completed as part of CS6630 Visualization for Data Science course Fall 2019 at the University of Utah. The source code repositories have to be kept private but you can view the visulization designs using the links below:
  
 ## Links
 
