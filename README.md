@@ -6,7 +6,7 @@ These are three mini projects I completed as part of CS6630 Visualization for Da
 
 [1. World Health Data](https://rohit200792.github.io/gap-minder-visualization/)
 
-[2. Fifa World Cup 2019](https://rohit200792.github.io/fifa-wc-2018/)
+[2. Fifa World Cup 2018](https://rohit200792.github.io/fifa-wc-2018/)
 
 [3. State of State Addresses in 2019](https://rohit200792.github.io/vis-state-of-states/)
 
