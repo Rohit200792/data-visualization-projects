@@ -11,7 +11,7 @@ These are three mini projects I completed as part of CS6630 Visualization for Da
 [3. State of State Addresses in 2019](https://rohit200792.github.io/vis-state-of-states/)
 
 ## Note
-Currently the implementations are checked for compatiblity only against Chrome Browser and a screen reolution of 3840 by 2160. I plan to work on ensuring cross browser compatiblity and make them responsive. But until then please adjutst the browser window by zooming out untill all visualization components fit. Here are screenshots to each for reference:
+Currently the implementations are checked for compatiblity only against Chrome Browser and a screen reolution of 3840 by 2160. I plan to work on ensuring cross browser compatiblity and make them responsive. But until then please adjutst the browser window by zooming out untill all visualization components fit(for instance viewing at 75% zoom for 1980 by 1080 works perfectly). Here are screenshots to each for reference:
 
 ### World Health Data
 
